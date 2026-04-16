@@ -41,7 +41,7 @@ st.markdown("""
 with st.sidebar:
     st.header("⚙️ Configuration")
 
-    google_api_key = "AIzaSyAZX9Cnn0GvWtYBXjiHJy1y580B_SeG7uQ"
+    google_api_key = "AQ.Ab8RN6IPrlIjTpcqTCjJOh7go2Tudceq7Rd_-OqyDNcJ7CZorg"
 
     st.divider()
     st.markdown("**Model settings**")
